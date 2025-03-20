@@ -1,0 +1,3 @@
+/Users/chetan/Documents/bedrock/build/CMakeFiles/sandbox.dir
+/Users/chetan/Documents/bedrock/build/CMakeFiles/edit_cache.dir
+/Users/chetan/Documents/bedrock/build/CMakeFiles/rebuild_cache.dir
